@@ -30,7 +30,7 @@ This app helps you manage task lists and their tasks directly from your terminal
 ```bash
 git clone https://github.com/yourusername/task-manager-cli.git
 cd task-manager-cli
-
+```
 ---
 
 ## 📷 Preview
